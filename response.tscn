@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c6f7i8stmcorp"]
+
+[ext_resource type="FontFile" uid="uid://bjrati5bloksr" path="res://fonts/IBMPlexMono-Regular.ttf" id="1_eh5pb"]
+
+[node name="Response" type="Label"]
+theme_override_fonts/font = ExtResource("1_eh5pb")
+theme_override_font_sizes/font_size = 28
+autowrap_mode = 3
